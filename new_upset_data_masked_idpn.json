@@ -9,7 +9,7 @@
 		{ "type": "integer", "index": 8, "name": "N_Trues" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 7 }
+		{ "format": "binary", "start": 2, "end": 7 }
 	],
     "author": "António Baião",
     "description": "Test IDPN graph data."
