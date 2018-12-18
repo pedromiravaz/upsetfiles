@@ -1,0 +1,16 @@
+{
+	"file": "https://raw.githubusercontent.com/pedromiravaz/upsetfiles/master/new_upset_data_masked_idpn.csv",
+	"name": "IDPN Test Graph",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Index" },
+		{ "type": "integer", "index": 8, "name": "N_Trues" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	],
+    "author": "António Baião",
+    "description": "Test IDPN graph data."
+}
